@@ -29,7 +29,7 @@ constructs>=10.0.0
 pip install -r requirements.txt
 ```
 
-### 4. Create the CDK App
+#### 4. Create the CDK App
 Save the main Python code as app.py in your project directory.
 ```
 #!/usr/bin/env python3

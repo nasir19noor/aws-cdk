@@ -252,3 +252,9 @@ cdk synth
 ```
 cdk deploy
 ```
+
+#### 10. Cleanup
+To destroy the infrastructure:
+```
+cdk destroy
+```

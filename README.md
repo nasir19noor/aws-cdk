@@ -12,6 +12,7 @@ npm install -g aws-cdk
 #### 3. Python 3.7+ installed
 #### 4. AWS Key Pair created (for EC2 SSH access)
 
+
 ### Step-by-Step Deployment
 #### 1. Create Python Virtual Environment
 ```

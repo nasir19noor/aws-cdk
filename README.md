@@ -248,7 +248,7 @@ chmod 400 my-key-pair.pem
 cdk synth
 ```
 
-### 9. Deploy the Stack
+#### 9. Deploy the Stack
 ```
 cdk deploy
 ```
